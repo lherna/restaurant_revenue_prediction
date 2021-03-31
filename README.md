@@ -2,7 +2,7 @@
 
 As part of a course final project, I cleaned and analyzed a set of dataset(s), both the training set and the test set, that contained restaurant information used to predict the potential revenue through a linear regression. 
 
-Beginning with the information provided by Kaggle (https://www.kaggle.com/c/restaurant-revenue-prediction/data), the training set was explored to see what kind of insights were provided. 
+Beginning with the information provided by <a href="https://www.kaggle.com/c/restaurant-revenue-prediction/data">Kaggle</a>, the training set was explored to see what kind of insights were provided. 
 
 <p align="center">
   <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/RR_prob.png" title="rr_intro">
@@ -22,4 +22,4 @@ Seeing that there was indeed some indication to the Istanbul metropolitan region
 
 After noticing that there was a missing category within this feature, specifically the "MB" or "Mobile" type, it came to mind that the test set had to be modified to accomodate for this through an imputation method via a KNN (Imputer) available through sci-kit learn.
 
-Preparing this along with the remaining category variables to be replaced by a numerical variable via a dummy variable, the data was processed as shown in the 
+Preparing this along with the remaining category variables to be replaced by a numerical variable via a dummy variable, the data was processed as shown in the <a href = "https://github.com/lherna/restaurant_revenue_prediction/blob/main/PHYS247_Final-Restaurant_Revenue_Prediction.ipynb">Jupyter Notebook</a> in this repository.  
