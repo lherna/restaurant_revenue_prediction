@@ -29,7 +29,7 @@ Leaving out the "City" feature due to the amount of categorical variables that w
 Noticing a difference from the unprocessed data to the processed data, the linear regression gave clear results to the predicting capabilities with respect to this data: 
 
 <p align="center">
-  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/restaurant_region.png" title="soln">
+  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/RR_sol.png" title="soln">
 </p>
 
 
