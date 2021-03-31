@@ -8,4 +8,10 @@ Beginning with the information provided by Kaggle (https://www.kaggle.com/c/rest
   <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/RR_prob.png" title="rr_intro">
 </p>
 
+Pointing to the data to be pretty much localized to the Turkey region, I went ahead and went a little deeper in the exploration to see if there were any interesting insights that could be unraveled. 
+
+
+<p align="center">
+  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/RR_prob.png" title="rr_intro">
+</p>
 
