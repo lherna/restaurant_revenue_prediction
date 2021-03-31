@@ -17,7 +17,7 @@ Pointing to the data to be pretty much localized to the Turkey region, I went ah
 Seeing that there was indeed some indication to the Istanbul metropolitan region, the next thing I wanted to see was whether the restaurant "Type" provided in the dataset differed. 
 
 <p align="center">
-  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/restaurant_region.png" title="loc_region">
+  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/restaurant_type.png" title="loc_region">
 </p>
 
 After noticing that there was a missing category within this feature, specifically the "MB" or "Mobile" type, it came to mind that the test set had to be modified to accomodate for this through an imputation method via a KNN (Imputer) available through sci-kit learn.
