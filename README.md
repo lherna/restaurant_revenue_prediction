@@ -12,6 +12,6 @@ Pointing to the data to be pretty much localized to the Turkey region, I went ah
 
 
 <p align="center">
-  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/RR_prob.png" title="rr_intro">
+  <img src="https://github.com/lherna/restaurant_revenue_prediction/blob/main/img/restaurant_region.png" title="loc_region">
 </p>
 
